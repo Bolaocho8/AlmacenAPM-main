@@ -1,0 +1,71 @@
+/* App.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  .formulario {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header {
+    background-color: #3333333f;
+    color: #ffffff77;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .main-content {
+    margin-top: 100px;
+  }
+  
+  .footer {
+    background-color: #3333332f;
+    color: #ffffff77;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  .Label {
+    font-size: 2em;
+    font-weight: bold;
+  }
+  .Button {
+    font-size: 2em;
+    font-weight: bold;
+    
+  }
+  .box {
+    background:
+      linear-gradient(
+          105deg,
+          rgba(237, 236, 239, 0.904) 39%,
+          rgb(237, 242, 242) 96%
+        ) center center / 600px 700px no-repeat,
+      
+      rgba(2, 1, 20, 0.137);
+  }
+  .img {
+    width: auto;
+    height: auto;
+  }
+  
+
+
+  /* Agrega estilos adicionales según sea necesario */
+  
